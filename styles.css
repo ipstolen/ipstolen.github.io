@@ -11,13 +11,13 @@ header, footer {
 }
 .gallery {
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
-  gap: 16px;
+  grid-template-columns: repeat(4, 1fr); 
+  gap: 4px;
   padding: 32px;
 }
 .thumb {
   background: #fff;
-  border-radius: 16px;
+  border-radius: 10px;
   box-shadow: 0 2px 8px rgba(0,0,0,0.1);
   overflow: hidden;
   text-align: center;
