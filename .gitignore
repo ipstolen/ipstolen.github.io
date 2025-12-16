@@ -1,0 +1,4 @@
+*.xml
+*.patch
+/.idea/
+/.vscode/
