@@ -1,19 +1,28 @@
+:root {
+  cursor: url('/images/cursor/dronecursor.png') 0 0, default;
+}
+a {
+  cursor: url('/images/cursor/link.png') 0 0, default;
+}
 body {
   font-family: Arial, sans-serif;
   margin: 0;
   background: #f8f8f8;
 }
 header, footer {
+  position: sticky;
+  top:0px;
   background: #222;
   color: #fff;
   text-align: center;
-  padding: 1em 0;
+  border: 5px solid darkgray;
 }
 .gallery {
   display: grid;
   grid-template-columns: repeat(4, 1fr); 
   gap: 4px;
   padding: 32px;
+  border: 1px darkblue solid;
 }
 .thumb {
   background: #fff;
@@ -26,4 +35,24 @@ header, footer {
   width: 100%;
   height: auto;
   display: block;
+}
+.container {
+  display: flex;
+  gap: 10px;
+}
+.navbar {
+  display: flex;
+  align-content: center;
+  top: 0;
+  left: 0;
+  z-index: 2;
+}
+.navbar .link a{
+  color: darkgray;
+  text-decoration: none;
+  padding: 8px;
+  border: 2px solid transparent;
+}
+.navbar .link a:hover{
+  border: 2px solid white;
 }
