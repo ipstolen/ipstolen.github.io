@@ -1,0 +1,33 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  background: #f8f8f8;
+}
+header, footer {
+  background: #222;
+  color: #fff;
+  text-align: center;
+  padding: 1em 0;
+}
+.gallery {
+  display: grid;
+  grid-template-columns: repeat(8, 2fr); 
+  gap: 4px;
+  padding: 32px;
+}
+.thumb {
+  background: #fff;
+  border-radius: 1px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  overflow: hidden;
+  text-align: center;
+  height: 200%;
+}
+.thumb img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+.thumb:hover{
+  box-shadow: 0 2px 8px #222;
+}
