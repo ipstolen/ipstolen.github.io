@@ -1,3 +1,10 @@
+h1{
+  font-size: clamp(24px, 5vw, 48px); /* makes sure that  font smallest is 24, 
+                                      biggest is 48, and it always takes up 5% of the screen*/
+}
+h5{
+  font-size: clamp(2px, 3vw, 16px);
+}
 body {
   font-family: Arial, sans-serif;
   margin: 0;
@@ -5,15 +12,17 @@ body {
 }
 header, footer {
   background: #222;
-  color: #fff;
+  color: #ffffff;
   text-align: center;
-  padding: 1em 0;
+  padding: 0.5em;
+  height: 10px;
 }
 .gallery {
   display: grid;
-  grid-template-columns: repeat(8, 2fr); 
+  grid-template-columns: repeat(10, 2fr); 
   gap: 4px;
-  padding: 32px;
+  padding: 64px;
+  transform: translateY(-60px);
 }
 .thumb {
   background: #fff;
@@ -21,7 +30,8 @@ header, footer {
   box-shadow: 0 2px 8px rgba(0,0,0,0.1);
   overflow: hidden;
   text-align: center;
-  height: 200%;
+  height: 20vw;
+  width: 10vw;
 }
 .thumb img {
   width: 100%;
@@ -29,5 +39,5 @@ header, footer {
   display: block;
 }
 .thumb:hover{
-  box-shadow: 0 2px 8px #222;
+  box-shadow: 0 2px 8px #c40000;
 }
