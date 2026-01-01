@@ -19,7 +19,7 @@ header, footer {
   border: 5px solid darkgray;
   width: 1000px;
   /*position: fixed;*/
-position: relative;
+  position: relative;
 }
 .gallery {
   display: grid;
@@ -27,6 +27,9 @@ position: relative;
   gap: 4px;
   padding: 64px;
   transform: translateY(-60px);
+  overflow-y: auto;
+  overflow-x: auto;
+  max-width: 80%;
 }
 .thumb {
   background: #fff;
