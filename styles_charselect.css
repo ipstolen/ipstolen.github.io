@@ -11,25 +11,24 @@ body {
   background: #f8f8f8;
 }
 header, footer {
-  
-  top:0px;
+   height: 56px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 14px;
   background: #222;
-  color: #fff;
-  text-align: center;
-  border: 5px solid darkgray;
-  width: 1000px;
-  /*position: fixed;*/
-  position: relative;
+  border-bottom: 1px solid rgba(255,255,255,.06);
+  border-top: 1px solid rgba(255,255,255,.08);
 }
 .gallery {
   display: grid;
-  grid-template-columns: repeat(10, 2fr); 
+  grid-template-columns: repeat(auto-fill, minmax(10vw, 2fr)); 
   gap: 4px;
   padding: 64px;
   transform: translateY(-60px);
   overflow-y: auto;
   overflow-x: auto;
-  max-width: 80%;
+  max-width: 90%;
 }
 .thumb {
   background: #fff;
