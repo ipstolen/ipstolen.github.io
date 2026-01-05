@@ -1,0 +1,2991 @@
+{
+  "char_285_medic2" : {
+    "appellation" : "Lancet-2",
+    "position" : "RANGED",
+    "rarity" : 0,
+    "profession" : "MEDIC",
+    "subProfessionId" : "physician"
+  },
+  "char_286_cast3" : {
+    "appellation" : "Castle-3",
+    "position" : "MELEE",
+    "rarity" : 0,
+    "profession" : "WARRIOR",
+    "subProfessionId" : "fearless"
+  },
+  "char_376_therex" : {
+    "appellation" : "Thermal-EX",
+    "position" : "MELEE",
+    "rarity" : 0,
+    "profession" : "SPECIAL",
+    "subProfessionId" : "executor"
+  },
+  "char_4000_jnight" : {
+    "appellation" : "\"Justice Knight\"",
+    "position" : "RANGED",
+    "rarity" : 0,
+    "profession" : "SNIPER",
+    "subProfessionId" : "fastshot"
+  },
+  "char_4077_palico" : {
+    "appellation" : "Terra Research Commission",
+    "position" : "RANGED",
+    "rarity" : 0,
+    "profession" : "SNIPER",
+    "subProfessionId" : "bombarder"
+  },
+  "char_4091_ulika" : {
+    "appellation" : "U-Official",
+    "position" : "RANGED",
+    "rarity" : 0,
+    "profession" : "SUPPORT",
+    "subProfessionId" : "bard"
+  },
+  "char_4093_frston" : {
+    "appellation" : "Friston-3",
+    "position" : "MELEE",
+    "rarity" : 0,
+    "profession" : "TANK",
+    "subProfessionId" : "protector"
+  },
+  "char_4136_phonor" : {
+    "appellation" : "PhonoR-0",
+    "position" : "RANGED",
+    "rarity" : 0,
+    "profession" : "SUPPORT",
+    "subProfessionId" : "ritualist"
+  },
+  "char_4188_confes" : {
+    "appellation" : "CONFESS-47",
+    "position" : "MELEE",
+    "rarity" : 0,
+    "profession" : "PIONEER",
+    "subProfessionId" : "pioneer"
+  },
+  "char_502_nblade" : {
+    "appellation" : "Yato",
+    "position" : "MELEE",
+    "rarity" : 1,
+    "profession" : "PIONEER",
+    "subProfessionId" : "pioneer"
+  },
+  "char_500_noirc" : {
+    "appellation" : "Noir Corne",
+    "position" : "MELEE",
+    "rarity" : 1,
+    "profession" : "TANK",
+    "subProfessionId" : "protector"
+  },
+  "char_503_rang" : {
+    "appellation" : "Rangers",
+    "position" : "RANGED",
+    "rarity" : 1,
+    "profession" : "SNIPER",
+    "subProfessionId" : "fastshot"
+  },
+  "char_501_durin" : {
+    "appellation" : "Durin",
+    "position" : "RANGED",
+    "rarity" : 1,
+    "profession" : "CASTER",
+    "subProfessionId" : "corecaster"
+  },
+  "char_009_12fce" : {
+    "appellation" : "12F",
+    "position" : "RANGED",
+    "rarity" : 1,
+    "profession" : "CASTER",
+    "subProfessionId" : "splashcaster"
+  },
+  "char_123_fang" : {
+    "appellation" : "Fang",
+    "position" : "MELEE",
+    "rarity" : 2,
+    "profession" : "PIONEER",
+    "subProfessionId" : "pioneer"
+  },
+  "char_240_wyvern" : {
+    "appellation" : "Vanilla",
+    "position" : "MELEE",
+    "rarity" : 2,
+    "profession" : "PIONEER",
+    "subProfessionId" : "pioneer"
+  },
+  "char_504_rguard" : {
+    "appellation" : "Reserve (Melee)",
+    "position" : "MELEE",
+    "rarity" : 2,
+    "profession" : "PIONEER",
+    "subProfessionId" : "pioneer"
+  },
+  "char_192_falco" : {
+    "appellation" : "Plume",
+    "position" : "MELEE",
+    "rarity" : 2,
+    "profession" : "PIONEER",
+    "subProfessionId" : "charger"
+  },
+  "char_208_melan" : {
+    "appellation" : "Melantha",
+    "position" : "MELEE",
+    "rarity" : 2,
+    "profession" : "WARRIOR",
+    "subProfessionId" : "fearless"
+  },
+  "char_281_popka" : {
+    "appellation" : "Popukar",
+    "position" : "MELEE",
+    "rarity" : 2,
+    "profession" : "WARRIOR",
+    "subProfessionId" : "centurion"
+  },
+  "char_209_ardign" : {
+    "appellation" : "Cardigan",
+    "position" : "MELEE",
+    "rarity" : 2,
+    "profession" : "TANK",
+    "subProfessionId" : "protector"
+  },
+  "char_122_beagle" : {
+    "appellation" : "Beagle",
+    "position" : "MELEE",
+    "rarity" : 2,
+    "profession" : "TANK",
+    "subProfessionId" : "protector"
+  },
+  "char_514_rdfend" : {
+    "appellation" : "Reserve (Defender)",
+    "position" : "MELEE",
+    "rarity" : 2,
+    "profession" : "TANK",
+    "subProfessionId" : "protector"
+  },
+  "char_284_spot" : {
+    "appellation" : "Spot",
+    "position" : "MELEE",
+    "rarity" : 2,
+    "profession" : "TANK",
+    "subProfessionId" : "guardian"
+  },
+  "char_124_kroos" : {
+    "appellation" : "Kroos",
+    "position" : "RANGED",
+    "rarity" : 2,
+    "profession" : "SNIPER",
+    "subProfessionId" : "fastshot"
+  },
+  "char_211_adnach" : {
+    "appellation" : "Adnachiel",
+    "position" : "RANGED",
+    "rarity" : 2,
+    "profession" : "SNIPER",
+    "subProfessionId" : "fastshot"
+  },
+  "char_507_rsnipe" : {
+    "appellation" : "Reserve (Sniper)",
+    "position" : "RANGED",
+    "rarity" : 2,
+    "profession" : "SNIPER",
+    "subProfessionId" : "fastshot"
+  },
+  "char_121_lava" : {
+    "appellation" : "Lava",
+    "position" : "RANGED",
+    "rarity" : 2,
+    "profession" : "CASTER",
+    "subProfessionId" : "splashcaster"
+  },
+  "char_120_hibisc" : {
+    "appellation" : "Hibiscus",
+    "position" : "RANGED",
+    "rarity" : 2,
+    "profession" : "MEDIC",
+    "subProfessionId" : "physician"
+  },
+  "char_212_ansel" : {
+    "appellation" : "Ansel",
+    "position" : "RANGED",
+    "rarity" : 2,
+    "profession" : "MEDIC",
+    "subProfessionId" : "physician"
+  },
+  "char_506_rmedic" : {
+    "appellation" : "Reserve (Logistic)",
+    "position" : "RANGED",
+    "rarity" : 2,
+    "profession" : "MEDIC",
+    "subProfessionId" : "physician"
+  },
+  "char_210_stward" : {
+    "appellation" : "Steward",
+    "position" : "RANGED",
+    "rarity" : 2,
+    "profession" : "CASTER",
+    "subProfessionId" : "corecaster"
+  },
+  "char_505_rcast" : {
+    "appellation" : "Reserve (Caster)",
+    "position" : "RANGED",
+    "rarity" : 2,
+    "profession" : "CASTER",
+    "subProfessionId" : "corecaster"
+  },
+  "char_278_orchid" : {
+    "appellation" : "Orchid",
+    "position" : "RANGED",
+    "rarity" : 2,
+    "profession" : "SUPPORT",
+    "subProfessionId" : "slower"
+  },
+  "char_141_nights" : {
+    "appellation" : "Haze",
+    "position" : "RANGED",
+    "rarity" : 3,
+    "profession" : "CASTER",
+    "subProfessionId" : "corecaster"
+  },
+  "char_604_ccast" : {
+    "appellation" : "Reserve Operator - Caster",
+    "position" : "RANGED",
+    "rarity" : 3,
+    "profession" : "CASTER",
+    "subProfessionId" : "corecaster"
+  },
+  "char_109_fmout" : {
+    "appellation" : "Gitano",
+    "position" : "RANGED",
+    "rarity" : 3,
+    "profession" : "CASTER",
+    "subProfessionId" : "splashcaster"
+  },
+  "char_253_greyy" : {
+    "appellation" : "Greyy",
+    "position" : "RANGED",
+    "rarity" : 3,
+    "profession" : "CASTER",
+    "subProfessionId" : "splashcaster"
+  },
+  "char_4051_akkord" : {
+    "appellation" : "Akkord",
+    "position" : "RANGED",
+    "rarity" : 3,
+    "profession" : "CASTER",
+    "subProfessionId" : "blastcaster"
+  },
+  "char_328_cammou" : {
+    "appellation" : "Click",
+    "position" : "RANGED",
+    "rarity" : 3,
+    "profession" : "CASTER",
+    "subProfessionId" : "funnel"
+  },
+  "char_469_indigo" : {
+    "appellation" : "Indigo",
+    "position" : "RANGED",
+    "rarity" : 3,
+    "profession" : "CASTER",
+    "subProfessionId" : "mystic"
+  },
+  "char_4004_pudd" : {
+    "appellation" : "Pudding",
+    "position" : "RANGED",
+    "rarity" : 3,
+    "profession" : "CASTER",
+    "subProfessionId" : "chain"
+  },
+  "char_235_jesica" : {
+    "appellation" : "Jessica",
+    "position" : "RANGED",
+    "rarity" : 3,
+    "profession" : "SNIPER",
+    "subProfessionId" : "fastshot"
+  },
+  "char_126_shotst" : {
+    "appellation" : "Meteor",
+    "position" : "RANGED",
+    "rarity" : 3,
+    "profession" : "SNIPER",
+    "subProfessionId" : "fastshot"
+  },
+  "char_190_clour" : {
+    "appellation" : "Vermeil",
+    "position" : "RANGED",
+    "rarity" : 3,
+    "profession" : "SNIPER",
+    "subProfessionId" : "fastshot"
+  },
+  "char_133_mm" : {
+    "appellation" : "May",
+    "position" : "RANGED",
+    "rarity" : 3,
+    "profession" : "SNIPER",
+    "subProfessionId" : "fastshot"
+  },
+  "char_603_csnipe" : {
+    "appellation" : "Reserve Operator - Sniper",
+    "position" : "RANGED",
+    "rarity" : 3,
+    "profession" : "SNIPER",
+    "subProfessionId" : "fastshot"
+  },
+  "char_118_yuki" : {
+    "appellation" : "ShiraYuki",
+    "position" : "RANGED",
+    "rarity" : 3,
+    "profession" : "SNIPER",
+    "subProfessionId" : "aoesniper"
+  },
+  "char_440_pinecn" : {
+    "appellation" : "Pinecone",
+    "position" : "RANGED",
+    "rarity" : 3,
+    "profession" : "SNIPER",
+    "subProfessionId" : "reaperrange"
+  },
+  "char_302_glaze" : {
+    "appellation" : "Ambriel",
+    "position" : "RANGED",
+    "rarity" : 3,
+    "profession" : "SNIPER",
+    "subProfessionId" : "longrange"
+  },
+  "char_366_acdrop" : {
+    "appellation" : "Aciddrop",
+    "position" : "RANGED",
+    "rarity" : 3,
+    "profession" : "SNIPER",
+    "subProfessionId" : "closerange"
+  },
+  "char_4062_totter" : {
+    "appellation" : "Totter",
+    "position" : "RANGED",
+    "rarity" : 3,
+    "profession" : "SNIPER",
+    "subProfessionId" : "siegesniper"
+  },
+  "char_4100_caper" : {
+    "appellation" : "Caper",
+    "position" : "RANGED",
+    "rarity" : 3,
+    "profession" : "SNIPER",
+    "subProfessionId" : "loopshooter"
+  },
+  "char_198_blackd" : {
+    "appellation" : "Courier",
+    "position" : "MELEE",
+    "rarity" : 3,
+    "profession" : "PIONEER",
+    "subProfessionId" : "pioneer"
+  },
+  "char_149_scave" : {
+    "appellation" : "Scavenger",
+    "position" : "MELEE",
+    "rarity" : 3,
+    "profession" : "PIONEER",
+    "subProfessionId" : "pioneer"
+  },
+  "char_600_cpione" : {
+    "appellation" : "Reserve Operator - Vanguard",
+    "position" : "MELEE",
+    "rarity" : 3,
+    "profession" : "PIONEER",
+    "subProfessionId" : "pioneer"
+  },
+  "char_290_vigna" : {
+    "appellation" : "Vigna",
+    "position" : "MELEE",
+    "rarity" : 3,
+    "profession" : "PIONEER",
+    "subProfessionId" : "charger"
+  },
+  "char_151_myrtle" : {
+    "appellation" : "Myrtle",
+    "position" : "MELEE",
+    "rarity" : 3,
+    "profession" : "PIONEER",
+    "subProfessionId" : "bearer"
+  },
+  "char_452_bstalk" : {
+    "appellation" : "Beanstalk",
+    "position" : "RANGED",
+    "rarity" : 3,
+    "profession" : "PIONEER",
+    "subProfessionId" : "tactician"
+  },
+  "char_4208_wintim" : {
+    "appellation" : "Снегурочка",
+    "position" : "MELEE",
+    "rarity" : 3,
+    "profession" : "PIONEER",
+    "subProfessionId" : "agent"
+  },
+  "char_130_doberm" : {
+    "appellation" : "Dobermann",
+    "position" : "MELEE",
+    "rarity" : 3,
+    "profession" : "WARRIOR",
+    "subProfessionId" : "instructor"
+  },
+  "char_289_gyuki" : {
+    "appellation" : "Matoimaru",
+    "position" : "MELEE",
+    "rarity" : 3,
+    "profession" : "WARRIOR",
+    "subProfessionId" : "fearless"
+  },
+  "char_159_peacok" : {
+    "appellation" : "Conviction",
+    "position" : "MELEE",
+    "rarity" : 3,
+    "profession" : "WARRIOR",
+    "subProfessionId" : "fearless"
+  },
+  "char_601_cguard" : {
+    "appellation" : "Reserve Operator - Guard",
+    "position" : "MELEE",
+    "rarity" : 3,
+    "profession" : "WARRIOR",
+    "subProfessionId" : "fearless"
+  },
+  "char_193_frostl" : {
+    "appellation" : "Frostleaf",
+    "position" : "MELEE",
+    "rarity" : 3,
+    "profession" : "WARRIOR",
+    "subProfessionId" : "lord"
+  },
+  "char_127_estell" : {
+    "appellation" : "Estelle",
+    "position" : "MELEE",
+    "rarity" : 3,
+    "profession" : "WARRIOR",
+    "subProfessionId" : "centurion"
+  },
+  "char_185_frncat" : {
+    "appellation" : "Mousse",
+    "position" : "MELEE",
+    "rarity" : 3,
+    "profession" : "WARRIOR",
+    "subProfessionId" : "artsfghter"
+  },
+  "char_301_cutter" : {
+    "appellation" : "Cutter",
+    "position" : "MELEE",
+    "rarity" : 3,
+    "profession" : "WARRIOR",
+    "subProfessionId" : "sword"
+  },
+  "char_337_utage" : {
+    "appellation" : "Utage",
+    "position" : "MELEE",
+    "rarity" : 3,
+    "profession" : "WARRIOR",
+    "subProfessionId" : "musha"
+  },
+  "char_271_spikes" : {
+    "appellation" : "Arene",
+    "position" : "MELEE",
+    "rarity" : 3,
+    "profession" : "WARRIOR",
+    "subProfessionId" : "lord"
+  },
+  "char_4067_lolxh" : {
+    "appellation" : "Luo Xiaohei",
+    "position" : "MELEE",
+    "rarity" : 3,
+    "profession" : "WARRIOR",
+    "subProfessionId" : "lord"
+  },
+  "char_4063_quartz" : {
+    "appellation" : "Quartz",
+    "position" : "MELEE",
+    "rarity" : 3,
+    "profession" : "WARRIOR",
+    "subProfessionId" : "crusher"
+  },
+  "char_491_humus" : {
+    "appellation" : "Humus",
+    "position" : "MELEE",
+    "rarity" : 3,
+    "profession" : "WARRIOR",
+    "subProfessionId" : "reaper"
+  },
+  "char_445_wscoot" : {
+    "appellation" : "Windscoot",
+    "position" : "MELEE",
+    "rarity" : 3,
+    "profession" : "WARRIOR",
+    "subProfessionId" : "librator"
+  },
+  "char_237_gravel" : {
+    "appellation" : "Gravel",
+    "position" : "MELEE",
+    "rarity" : 3,
+    "profession" : "SPECIAL",
+    "subProfessionId" : "executor"
+  },
+  "char_607_cspec" : {
+    "appellation" : "Reserve Operator - Specialist",
+    "position" : "MELEE",
+    "rarity" : 3,
+    "profession" : "SPECIAL",
+    "subProfessionId" : "executor"
+  },
+  "char_272_strong" : {
+    "appellation" : "Jaye",
+    "position" : "MELEE",
+    "rarity" : 3,
+    "profession" : "SPECIAL",
+    "subProfessionId" : "merchant"
+  },
+  "char_236_rope" : {
+    "appellation" : "Rope",
+    "position" : "MELEE",
+    "rarity" : 3,
+    "profession" : "SPECIAL",
+    "subProfessionId" : "hookmaster"
+  },
+  "char_117_myrrh" : {
+    "appellation" : "Myrrh",
+    "position" : "RANGED",
+    "rarity" : 3,
+    "profession" : "MEDIC",
+    "subProfessionId" : "physician"
+  },
+  "char_187_ccheal" : {
+    "appellation" : "Gavial",
+    "position" : "RANGED",
+    "rarity" : 3,
+    "profession" : "MEDIC",
+    "subProfessionId" : "physician"
+  },
+  "char_298_susuro" : {
+    "appellation" : "Sussurro",
+    "position" : "RANGED",
+    "rarity" : 3,
+    "profession" : "MEDIC",
+    "subProfessionId" : "physician"
+  },
+  "char_605_cmedic" : {
+    "appellation" : "Reserve Operator - Medic",
+    "position" : "RANGED",
+    "rarity" : 3,
+    "profession" : "MEDIC",
+    "subProfessionId" : "physician"
+  },
+  "char_181_flower" : {
+    "appellation" : "Perfumer",
+    "position" : "RANGED",
+    "rarity" : 3,
+    "profession" : "MEDIC",
+    "subProfessionId" : "ringhealer"
+  },
+  "char_385_finlpp" : {
+    "appellation" : "Purestream",
+    "position" : "RANGED",
+    "rarity" : 3,
+    "profession" : "MEDIC",
+    "subProfessionId" : "healer"
+  },
+  "char_4041_chnut" : {
+    "appellation" : "Chestnut",
+    "position" : "RANGED",
+    "rarity" : 3,
+    "profession" : "MEDIC",
+    "subProfessionId" : "wandermedic"
+  },
+  "char_199_yak" : {
+    "appellation" : "Matterhorn",
+    "position" : "MELEE",
+    "rarity" : 3,
+    "profession" : "TANK",
+    "subProfessionId" : "protector"
+  },
+  "char_150_snakek" : {
+    "appellation" : "Cuora",
+    "position" : "MELEE",
+    "rarity" : 3,
+    "profession" : "TANK",
+    "subProfessionId" : "protector"
+  },
+  "char_381_bubble" : {
+    "appellation" : "Bubble",
+    "position" : "MELEE",
+    "rarity" : 3,
+    "profession" : "TANK",
+    "subProfessionId" : "protector"
+  },
+  "char_602_cdfend" : {
+    "appellation" : "Reserve Operator - Defender",
+    "position" : "MELEE",
+    "rarity" : 3,
+    "profession" : "TANK",
+    "subProfessionId" : "protector"
+  },
+  "char_4130_luton" : {
+    "appellation" : "Lutonada",
+    "position" : "MELEE",
+    "rarity" : 3,
+    "profession" : "TANK",
+    "subProfessionId" : "unyield"
+  },
+  "char_196_sunbr" : {
+    "appellation" : "Гум",
+    "position" : "MELEE",
+    "rarity" : 3,
+    "profession" : "TANK",
+    "subProfessionId" : "guardian"
+  },
+  "char_260_durnar" : {
+    "appellation" : "Dur-nar",
+    "position" : "MELEE",
+    "rarity" : 3,
+    "profession" : "TANK",
+    "subProfessionId" : "artsprotector"
+  },
+  "char_110_deepcl" : {
+    "appellation" : "Deepcolor",
+    "position" : "RANGED",
+    "rarity" : 3,
+    "profession" : "SUPPORT",
+    "subProfessionId" : "summoner"
+  },
+  "char_183_skgoat" : {
+    "appellation" : "Earthspirit",
+    "position" : "RANGED",
+    "rarity" : 3,
+    "profession" : "SUPPORT",
+    "subProfessionId" : "slower"
+  },
+  "char_258_podego" : {
+    "appellation" : "Podenco",
+    "position" : "RANGED",
+    "rarity" : 3,
+    "profession" : "SUPPORT",
+    "subProfessionId" : "slower"
+  },
+  "char_606_csuppo" : {
+    "appellation" : "Reserve Operator - Supporter",
+    "position" : "RANGED",
+    "rarity" : 3,
+    "profession" : "SUPPORT",
+    "subProfessionId" : "slower"
+  },
+  "char_484_robrta" : {
+    "appellation" : "Roberta",
+    "position" : "MELEE",
+    "rarity" : 3,
+    "profession" : "SUPPORT",
+    "subProfessionId" : "craftsman"
+  },
+  "char_616_pithst" : {
+    "appellation" : "Alliance/Supportive Opertator",
+    "position" : "RANGED",
+    "rarity" : 3,
+    "profession" : "SUPPORT",
+    "subProfessionId" : "ritualist"
+  },
+  "char_355_ethan" : {
+    "appellation" : "Ethan",
+    "position" : "MELEE",
+    "rarity" : 3,
+    "profession" : "SPECIAL",
+    "subProfessionId" : "stalker"
+  },
+  "char_277_sqrrel" : {
+    "appellation" : "Shaw",
+    "position" : "MELEE",
+    "rarity" : 3,
+    "profession" : "SPECIAL",
+    "subProfessionId" : "pusher"
+  },
+  "char_4107_vrdant" : {
+    "appellation" : "Verdant",
+    "position" : "MELEE",
+    "rarity" : 3,
+    "profession" : "SPECIAL",
+    "subProfessionId" : "dollkeeper"
+  },
+  "char_4165_ctrail" : {
+    "appellation" : "Contrail",
+    "position" : "MELEE",
+    "rarity" : 3,
+    "profession" : "SPECIAL",
+    "subProfessionId" : "skywalker"
+  },
+  "char_128_plosis" : {
+    "appellation" : "Ptilopsis",
+    "position" : "RANGED",
+    "rarity" : 4,
+    "profession" : "MEDIC",
+    "subProfessionId" : "ringhealer"
+  },
+  "char_275_breeze" : {
+    "appellation" : "Breeze",
+    "position" : "RANGED",
+    "rarity" : 4,
+    "profession" : "MEDIC",
+    "subProfessionId" : "ringhealer"
+  },
+  "char_4163_rosesa" : {
+    "appellation" : "Rose Salt",
+    "position" : "RANGED",
+    "rarity" : 4,
+    "profession" : "MEDIC",
+    "subProfessionId" : "ringhealer"
+  },
+  "char_115_headbr" : {
+    "appellation" : "Зима",
+    "position" : "MELEE",
+    "rarity" : 4,
+    "profession" : "PIONEER",
+    "subProfessionId" : "pioneer"
+  },
+  "char_102_texas" : {
+    "appellation" : "Texas",
+    "position" : "MELEE",
+    "rarity" : 4,
+    "profession" : "PIONEER",
+    "subProfessionId" : "pioneer"
+  },
+  "char_349_chiave" : {
+    "appellation" : "Chiave",
+    "position" : "MELEE",
+    "rarity" : 4,
+    "profession" : "PIONEER",
+    "subProfessionId" : "pioneer"
+  },
+  "char_488_buildr" : {
+    "appellation" : "Poncirus",
+    "position" : "MELEE",
+    "rarity" : 4,
+    "profession" : "PIONEER",
+    "subProfessionId" : "pioneer"
+  },
+  "char_513_apionr" : {
+    "appellation" : "Tulip",
+    "position" : "MELEE",
+    "rarity" : 4,
+    "profession" : "PIONEER",
+    "subProfessionId" : "pioneer"
+  },
+  "char_4023_rfalcn" : {
+    "appellation" : "Kestrel",
+    "position" : "MELEE",
+    "rarity" : 4,
+    "profession" : "PIONEER",
+    "subProfessionId" : "pioneer"
+  },
+  "char_4199_makiri" : {
+    "appellation" : "Matsukiri",
+    "position" : "MELEE",
+    "rarity" : 4,
+    "profession" : "PIONEER",
+    "subProfessionId" : "counsellor"
+  },
+  "char_261_sddrag" : {
+    "appellation" : "Reed",
+    "position" : "MELEE",
+    "rarity" : 4,
+    "profession" : "PIONEER",
+    "subProfessionId" : "charger"
+  },
+  "char_496_wildmn" : {
+    "appellation" : "Wild Mane",
+    "position" : "MELEE",
+    "rarity" : 4,
+    "profession" : "PIONEER",
+    "subProfessionId" : "charger"
+  },
+  "char_1036_fang2" : {
+    "appellation" : "Fang the Fire-sharpened",
+    "position" : "MELEE",
+    "rarity" : 4,
+    "profession" : "PIONEER",
+    "subProfessionId" : "charger"
+  },
+  "char_401_elysm" : {
+    "appellation" : "Elysium",
+    "position" : "MELEE",
+    "rarity" : 4,
+    "profession" : "PIONEER",
+    "subProfessionId" : "bearer"
+  },
+  "char_4119_wanqin" : {
+    "appellation" : "Wanqing",
+    "position" : "MELEE",
+    "rarity" : 4,
+    "profession" : "PIONEER",
+    "subProfessionId" : "bearer"
+  },
+  "char_476_blkngt" : {
+    "appellation" : "Blacknight",
+    "position" : "RANGED",
+    "rarity" : 4,
+    "profession" : "PIONEER",
+    "subProfessionId" : "tactician"
+  },
+  "char_4147_mitm" : {
+    "appellation" : "Mitm",
+    "position" : "RANGED",
+    "rarity" : 4,
+    "profession" : "PIONEER",
+    "subProfessionId" : "tactician"
+  },
+  "char_497_ctable" : {
+    "appellation" : "Cantabile",
+    "position" : "MELEE",
+    "rarity" : 4,
+    "profession" : "PIONEER",
+    "subProfessionId" : "agent"
+  },
+  "char_4017_puzzle" : {
+    "appellation" : "Puzzle",
+    "position" : "MELEE",
+    "rarity" : 4,
+    "profession" : "PIONEER",
+    "subProfessionId" : "agent"
+  },
+  "char_4144_chilc" : {
+    "appellation" : "Chilchuck",
+    "position" : "MELEE",
+    "rarity" : 4,
+    "profession" : "PIONEER",
+    "subProfessionId" : "agent"
+  },
+  "char_4052_surfer" : {
+    "appellation" : "Surfer",
+    "position" : "MELEE",
+    "rarity" : 4,
+    "profession" : "PIONEER",
+    "subProfessionId" : "agent"
+  },
+  "char_308_swire" : {
+    "appellation" : "Swire",
+    "position" : "MELEE",
+    "rarity" : 4,
+    "profession" : "WARRIOR",
+    "subProfessionId" : "instructor"
+  },
+  "char_265_sophia" : {
+    "appellation" : "Whislash",
+    "position" : "MELEE",
+    "rarity" : 4,
+    "profession" : "WARRIOR",
+    "subProfessionId" : "instructor"
+  },
+  "char_4106_bryota" : {
+    "appellation" : "Bryophyta",
+    "position" : "MELEE",
+    "rarity" : 4,
+    "profession" : "WARRIOR",
+    "subProfessionId" : "instructor"
+  },
+  "char_4125_rdoc" : {
+    "appellation" : "Doc",
+    "position" : "MELEE",
+    "rarity" : 4,
+    "profession" : "WARRIOR",
+    "subProfessionId" : "instructor"
+  },
+  "char_106_franka" : {
+    "appellation" : "Franka",
+    "position" : "MELEE",
+    "rarity" : 4,
+    "profession" : "WARRIOR",
+    "subProfessionId" : "fearless"
+  },
+  "char_131_flameb" : {
+    "appellation" : "Flamebringer",
+    "position" : "MELEE",
+    "rarity" : 4,
+    "profession" : "WARRIOR",
+    "subProfessionId" : "fearless"
+  },
+  "char_154_morgan" : {
+    "appellation" : "Morgan",
+    "position" : "MELEE",
+    "rarity" : 4,
+    "profession" : "WARRIOR",
+    "subProfessionId" : "fearless"
+  },
+  "char_508_aguard" : {
+    "appellation" : "Sharp",
+    "position" : "MELEE",
+    "rarity" : 4,
+    "profession" : "WARRIOR",
+    "subProfessionId" : "fearless"
+  },
+  "char_4142_laios" : {
+    "appellation" : "Laios",
+    "position" : "MELEE",
+    "rarity" : 4,
+    "profession" : "WARRIOR",
+    "subProfessionId" : "fearless"
+  },
+  "char_155_tiger" : {
+    "appellation" : "Indra",
+    "position" : "MELEE",
+    "rarity" : 4,
+    "profession" : "WARRIOR",
+    "subProfessionId" : "fighter"
+  },
+  "char_415_flint" : {
+    "appellation" : "Flint",
+    "position" : "MELEE",
+    "rarity" : 4,
+    "profession" : "WARRIOR",
+    "subProfessionId" : "fighter"
+  },
+  "char_157_dagda" : {
+    "appellation" : "Dagda",
+    "position" : "MELEE",
+    "rarity" : 4,
+    "profession" : "WARRIOR",
+    "subProfessionId" : "fighter"
+  },
+  "char_140_whitew" : {
+    "appellation" : "Lappland",
+    "position" : "MELEE",
+    "rarity" : 4,
+    "profession" : "WARRIOR",
+    "subProfessionId" : "lord"
+  },
+  "char_294_ayer" : {
+    "appellation" : "Ayerscarpe",
+    "position" : "MELEE",
+    "rarity" : 4,
+    "profession" : "WARRIOR",
+    "subProfessionId" : "lord"
+  },
+  "char_194_leto" : {
+    "appellation" : "Лето",
+    "position" : "MELEE",
+    "rarity" : 4,
+    "profession" : "WARRIOR",
+    "subProfessionId" : "lord"
+  },
+  "char_4083_chimes" : {
+    "appellation" : "Wind Chimes",
+    "position" : "MELEE",
+    "rarity" : 4,
+    "profession" : "WARRIOR",
+    "subProfessionId" : "crusher"
+  },
+  "char_252_bibeak" : {
+    "appellation" : "Bibeak",
+    "position" : "MELEE",
+    "rarity" : 4,
+    "profession" : "WARRIOR",
+    "subProfessionId" : "sword"
+  },
+  "char_459_tachak" : {
+    "appellation" : "Tachanka",
+    "position" : "MELEE",
+    "rarity" : 4,
+    "profession" : "WARRIOR",
+    "subProfessionId" : "sword"
+  },
+  "char_143_ghost" : {
+    "appellation" : "Specter",
+    "position" : "MELEE",
+    "rarity" : 4,
+    "profession" : "WARRIOR",
+    "subProfessionId" : "centurion"
+  },
+  "char_356_broca" : {
+    "appellation" : "Broca",
+    "position" : "MELEE",
+    "rarity" : 4,
+    "profession" : "WARRIOR",
+    "subProfessionId" : "centurion"
+  },
+  "char_4126_fuze" : {
+    "appellation" : "Fuze",
+    "position" : "MELEE",
+    "rarity" : 4,
+    "profession" : "WARRIOR",
+    "subProfessionId" : "centurion"
+  },
+  "char_274_astesi" : {
+    "appellation" : "Astesia",
+    "position" : "MELEE",
+    "rarity" : 4,
+    "profession" : "WARRIOR",
+    "subProfessionId" : "artsfghter"
+  },
+  "char_333_sidero" : {
+    "appellation" : "Sideroca",
+    "position" : "MELEE",
+    "rarity" : 4,
+    "profession" : "WARRIOR",
+    "subProfessionId" : "artsfghter"
+  },
+  "char_475_akafyu" : {
+    "appellation" : "Akafuyu",
+    "position" : "MELEE",
+    "rarity" : 4,
+    "profession" : "WARRIOR",
+    "subProfessionId" : "musha"
+  },
+  "char_1030_noirc2" : {
+    "appellation" : "Rathalos S Noir Corne",
+    "position" : "MELEE",
+    "rarity" : 4,
+    "profession" : "WARRIOR",
+    "subProfessionId" : "musha"
+  },
+  "char_421_crow" : {
+    "appellation" : "La Pluma",
+    "position" : "MELEE",
+    "rarity" : 4,
+    "profession" : "WARRIOR",
+    "subProfessionId" : "reaper"
+  },
+  "char_4066_highmo" : {
+    "appellation" : "Highmore",
+    "position" : "MELEE",
+    "rarity" : 4,
+    "profession" : "WARRIOR",
+    "subProfessionId" : "reaper"
+  },
+  "char_486_takila" : {
+    "appellation" : "Tequila",
+    "position" : "MELEE",
+    "rarity" : 4,
+    "profession" : "WARRIOR",
+    "subProfessionId" : "librator"
+  },
+  "char_4131_odda" : {
+    "appellation" : "Odda",
+    "position" : "MELEE",
+    "rarity" : 4,
+    "profession" : "WARRIOR",
+    "subProfessionId" : "hammer"
+  },
+  "char_4187_graceb" : {
+    "appellation" : "Gracebearer",
+    "position" : "MELEE",
+    "rarity" : 4,
+    "profession" : "WARRIOR",
+    "subProfessionId" : "primguard"
+  },
+  "char_4185_amoris" : {
+    "appellation" : "Yūtenji Nyamu",
+    "position" : "MELEE",
+    "rarity" : 4,
+    "profession" : "WARRIOR",
+    "subProfessionId" : "hammer"
+  },
+  "char_394_hadiya" : {
+    "appellation" : "Hadiya",
+    "position" : "MELEE",
+    "rarity" : 4,
+    "profession" : "WARRIOR",
+    "subProfessionId" : "mercenary"
+  },
+  "char_129_bluep" : {
+    "appellation" : "Blue Poison",
+    "position" : "RANGED",
+    "rarity" : 4,
+    "profession" : "SNIPER",
+    "subProfessionId" : "fastshot"
+  },
+  "char_204_platnm" : {
+    "appellation" : "Platinum",
+    "position" : "RANGED",
+    "rarity" : 4,
+    "profession" : "SNIPER",
+    "subProfessionId" : "fastshot"
+  },
+  "char_367_swllow" : {
+    "appellation" : "GreyThroat",
+    "position" : "RANGED",
+    "rarity" : 4,
+    "profession" : "SNIPER",
+    "subProfessionId" : "fastshot"
+  },
+  "char_511_asnipe" : {
+    "appellation" : "Stormeye",
+    "position" : "RANGED",
+    "rarity" : 4,
+    "profession" : "SNIPER",
+    "subProfessionId" : "fastshot"
+  },
+  "char_365_aprl" : {
+    "appellation" : "April",
+    "position" : "RANGED",
+    "rarity" : 4,
+    "profession" : "SNIPER",
+    "subProfessionId" : "fastshot"
+  },
+  "char_1021_kroos2" : {
+    "appellation" : "Kroos the Keen Glint",
+    "position" : "RANGED",
+    "rarity" : 4,
+    "profession" : "SNIPER",
+    "subProfessionId" : "fastshot"
+  },
+  "char_498_inside" : {
+    "appellation" : "Insider",
+    "position" : "RANGED",
+    "rarity" : 4,
+    "profession" : "SNIPER",
+    "subProfessionId" : "fastshot"
+  },
+  "char_219_meteo" : {
+    "appellation" : "Meteorite",
+    "position" : "RANGED",
+    "rarity" : 4,
+    "profession" : "SNIPER",
+    "subProfessionId" : "aoesniper"
+  },
+  "char_379_sesa" : {
+    "appellation" : "Sesa",
+    "position" : "RANGED",
+    "rarity" : 4,
+    "profession" : "SNIPER",
+    "subProfessionId" : "aoesniper"
+  },
+  "char_4078_bdhkgt" : {
+    "appellation" : "Jieyun",
+    "position" : "RANGED",
+    "rarity" : 4,
+    "profession" : "SNIPER",
+    "subProfessionId" : "aoesniper"
+  },
+  "char_279_excu" : {
+    "appellation" : "Executor",
+    "position" : "RANGED",
+    "rarity" : 4,
+    "profession" : "SNIPER",
+    "subProfessionId" : "reaperrange"
+  },
+  "char_346_aosta" : {
+    "appellation" : "Aosta",
+    "position" : "RANGED",
+    "rarity" : 4,
+    "profession" : "SNIPER",
+    "subProfessionId" : "reaperrange"
+  },
+  "char_4203_kichi" : {
+    "appellation" : "Kichisei",
+    "position" : "RANGED",
+    "rarity" : 4,
+    "profession" : "SNIPER",
+    "subProfessionId" : "reaperrange"
+  },
+  "char_4213_skybx" : {
+    "appellation" : "Skybox",
+    "position" : "RANGED",
+    "rarity" : 4,
+    "profession" : "SNIPER",
+    "subProfessionId" : "skybreaker"
+  },
+  "char_002_amiya" : {
+    "appellation" : "Amiya",
+    "position" : "RANGED",
+    "rarity" : 4,
+    "profession" : "CASTER",
+    "subProfessionId" : "corecaster"
+  },
+  "char_405_absin" : {
+    "appellation" : "Absinthe",
+    "position" : "RANGED",
+    "rarity" : 4,
+    "profession" : "CASTER",
+    "subProfessionId" : "corecaster"
+  },
+  "char_411_tomimi" : {
+    "appellation" : "Tomimi",
+    "position" : "RANGED",
+    "rarity" : 4,
+    "profession" : "CASTER",
+    "subProfessionId" : "corecaster"
+  },
+  "char_466_qanik" : {
+    "appellation" : "Qanipalaat",
+    "position" : "RANGED",
+    "rarity" : 4,
+    "profession" : "CASTER",
+    "subProfessionId" : "corecaster"
+  },
+  "char_166_skfire" : {
+    "appellation" : "Skyfire",
+    "position" : "RANGED",
+    "rarity" : 4,
+    "profession" : "CASTER",
+    "subProfessionId" : "splashcaster"
+  },
+  "char_509_acast" : {
+    "appellation" : "Pith",
+    "position" : "RANGED",
+    "rarity" : 4,
+    "profession" : "CASTER",
+    "subProfessionId" : "splashcaster"
+  },
+  "char_306_leizi" : {
+    "appellation" : "Leizi",
+    "position" : "RANGED",
+    "rarity" : 4,
+    "profession" : "CASTER",
+    "subProfessionId" : "chain"
+  },
+  "char_135_halo" : {
+    "appellation" : "Astgenne",
+    "position" : "RANGED",
+    "rarity" : 4,
+    "profession" : "CASTER",
+    "subProfessionId" : "chain"
+  },
+  "char_344_beewax" : {
+    "appellation" : "Beeswax",
+    "position" : "RANGED",
+    "rarity" : 4,
+    "profession" : "CASTER",
+    "subProfessionId" : "phalanx"
+  },
+  "char_373_lionhd" : {
+    "appellation" : "Leonhardt",
+    "position" : "RANGED",
+    "rarity" : 4,
+    "profession" : "CASTER",
+    "subProfessionId" : "splashcaster"
+  },
+  "char_341_sntlla" : {
+    "appellation" : "Santalla",
+    "position" : "RANGED",
+    "rarity" : 4,
+    "profession" : "CASTER",
+    "subProfessionId" : "splashcaster"
+  },
+  "char_388_mint" : {
+    "appellation" : "Mint",
+    "position" : "RANGED",
+    "rarity" : 4,
+    "profession" : "CASTER",
+    "subProfessionId" : "phalanx"
+  },
+  "char_338_iris" : {
+    "appellation" : "Iris",
+    "position" : "RANGED",
+    "rarity" : 4,
+    "profession" : "CASTER",
+    "subProfessionId" : "mystic"
+  },
+  "char_297_hamoni" : {
+    "appellation" : "Harmonie",
+    "position" : "RANGED",
+    "rarity" : 4,
+    "profession" : "CASTER",
+    "subProfessionId" : "mystic"
+  },
+  "char_4110_delphn" : {
+    "appellation" : "Delphine",
+    "position" : "RANGED",
+    "rarity" : 4,
+    "profession" : "CASTER",
+    "subProfessionId" : "mystic"
+  },
+  "char_1011_lava2" : {
+    "appellation" : "Lava the Purgatory",
+    "position" : "RANGED",
+    "rarity" : 4,
+    "profession" : "CASTER",
+    "subProfessionId" : "splashcaster"
+  },
+  "char_489_serum" : {
+    "appellation" : "Corroserum",
+    "position" : "RANGED",
+    "rarity" : 4,
+    "profession" : "CASTER",
+    "subProfessionId" : "blastcaster"
+  },
+  "char_446_aroma" : {
+    "appellation" : "Aroma",
+    "position" : "RANGED",
+    "rarity" : 4,
+    "profession" : "CASTER",
+    "subProfessionId" : "blastcaster"
+  },
+  "char_4013_kjera" : {
+    "appellation" : "Kjera",
+    "position" : "RANGED",
+    "rarity" : 4,
+    "profession" : "CASTER",
+    "subProfessionId" : "funnel"
+  },
+  "char_4040_rockr" : {
+    "appellation" : "Rockrock",
+    "position" : "RANGED",
+    "rarity" : 4,
+    "profession" : "CASTER",
+    "subProfessionId" : "funnel"
+  },
+  "char_4054_malist" : {
+    "appellation" : "Minimalist",
+    "position" : "RANGED",
+    "rarity" : 4,
+    "profession" : "CASTER",
+    "subProfessionId" : "funnel"
+  },
+  "char_499_kaitou" : {
+    "appellation" : "Diamante",
+    "position" : "RANGED",
+    "rarity" : 4,
+    "profession" : "CASTER",
+    "subProfessionId" : "primcaster"
+  },
+  "char_4081_warmy" : {
+    "appellation" : "Warmy",
+    "position" : "RANGED",
+    "rarity" : 4,
+    "profession" : "CASTER",
+    "subProfessionId" : "primcaster"
+  },
+  "char_4198_christ" : {
+    "appellation" : "Miss.Christine",
+    "position" : "RANGED",
+    "rarity" : 4,
+    "profession" : "CASTER",
+    "subProfessionId" : "primcaster"
+  },
+  "char_4164_tecno" : {
+    "appellation" : "Tecno",
+    "position" : "RANGED",
+    "rarity" : 4,
+    "profession" : "CASTER",
+    "subProfessionId" : "soulcaster"
+  },
+  "char_242_otter" : {
+    "appellation" : "Mayer",
+    "position" : "RANGED",
+    "rarity" : 4,
+    "profession" : "SUPPORT",
+    "subProfessionId" : "summoner"
+  },
+  "char_336_folivo" : {
+    "appellation" : "Scene",
+    "position" : "RANGED",
+    "rarity" : 4,
+    "profession" : "SUPPORT",
+    "subProfessionId" : "summoner"
+  },
+  "char_4140_lasher" : {
+    "appellation" : "Sand Reckoner",
+    "position" : "RANGED",
+    "rarity" : 4,
+    "profession" : "SUPPORT",
+    "subProfessionId" : "summoner"
+  },
+  "char_108_silent" : {
+    "appellation" : "Silence",
+    "position" : "RANGED",
+    "rarity" : 4,
+    "profession" : "MEDIC",
+    "subProfessionId" : "physician"
+  },
+  "char_171_bldsk" : {
+    "appellation" : "Warfarin",
+    "position" : "RANGED",
+    "rarity" : 4,
+    "profession" : "MEDIC",
+    "subProfessionId" : "physician"
+  },
+  "char_345_folnic" : {
+    "appellation" : "Folinic",
+    "position" : "RANGED",
+    "rarity" : 4,
+    "profession" : "MEDIC",
+    "subProfessionId" : "physician"
+  },
+  "char_510_amedic" : {
+    "appellation" : "Touch",
+    "position" : "RANGED",
+    "rarity" : 4,
+    "profession" : "MEDIC",
+    "subProfessionId" : "physician"
+  },
+  "char_4196_reckpr" : {
+    "appellation" : "Record Keeper",
+    "position" : "RANGED",
+    "rarity" : 4,
+    "profession" : "MEDIC",
+    "subProfessionId" : "physician"
+  },
+  "char_348_ceylon" : {
+    "appellation" : "Ceylon",
+    "position" : "RANGED",
+    "rarity" : 4,
+    "profession" : "MEDIC",
+    "subProfessionId" : "healer"
+  },
+  "char_436_whispr" : {
+    "appellation" : "Whisperain",
+    "position" : "RANGED",
+    "rarity" : 4,
+    "profession" : "MEDIC",
+    "subProfessionId" : "healer"
+  },
+  "char_4173_nowell" : {
+    "appellation" : "Nowell",
+    "position" : "RANGED",
+    "rarity" : 4,
+    "profession" : "MEDIC",
+    "subProfessionId" : "healer"
+  },
+  "char_402_tuye" : {
+    "appellation" : "Tuye",
+    "position" : "RANGED",
+    "rarity" : 4,
+    "profession" : "MEDIC",
+    "subProfessionId" : "physician"
+  },
+  "char_473_mberry" : {
+    "appellation" : "Mulberry",
+    "position" : "RANGED",
+    "rarity" : 4,
+    "profession" : "MEDIC",
+    "subProfessionId" : "wandermedic"
+  },
+  "char_449_glider" : {
+    "appellation" : "Honeyberry",
+    "position" : "RANGED",
+    "rarity" : 4,
+    "profession" : "MEDIC",
+    "subProfessionId" : "wandermedic"
+  },
+  "char_4114_harold" : {
+    "appellation" : "Harold",
+    "position" : "RANGED",
+    "rarity" : 4,
+    "profession" : "MEDIC",
+    "subProfessionId" : "wandermedic"
+  },
+  "char_1024_hbisc2" : {
+    "appellation" : "Hibiscus the Purifier",
+    "position" : "RANGED",
+    "rarity" : 4,
+    "profession" : "MEDIC",
+    "subProfessionId" : "incantationmedic"
+  },
+  "char_494_vendla" : {
+    "appellation" : "Vendela",
+    "position" : "RANGED",
+    "rarity" : 4,
+    "profession" : "MEDIC",
+    "subProfessionId" : "incantationmedic"
+  },
+  "char_4071_peper" : {
+    "appellation" : "Paprika",
+    "position" : "RANGED",
+    "rarity" : 4,
+    "profession" : "MEDIC",
+    "subProfessionId" : "chainhealer"
+  },
+  "char_4139_papyrs" : {
+    "appellation" : "Papyrus",
+    "position" : "RANGED",
+    "rarity" : 4,
+    "profession" : "MEDIC",
+    "subProfessionId" : "chainhealer"
+  },
+  "char_148_nearl" : {
+    "appellation" : "Nearl",
+    "position" : "MELEE",
+    "rarity" : 4,
+    "profession" : "TANK",
+    "subProfessionId" : "guardian"
+  },
+  "char_226_hmau" : {
+    "appellation" : "Hung",
+    "position" : "MELEE",
+    "rarity" : 4,
+    "profession" : "TANK",
+    "subProfessionId" : "guardian"
+  },
+  "char_4109_baslin" : {
+    "appellation" : "Bassline",
+    "position" : "MELEE",
+    "rarity" : 4,
+    "profession" : "TANK",
+    "subProfessionId" : "guardian"
+  },
+  "char_4143_sensi" : {
+    "appellation" : "Senshi",
+    "position" : "MELEE",
+    "rarity" : 4,
+    "profession" : "TANK",
+    "subProfessionId" : "guardian"
+  },
+  "char_144_red" : {
+    "appellation" : "Projekt Red",
+    "position" : "MELEE",
+    "rarity" : 4,
+    "profession" : "SPECIAL",
+    "subProfessionId" : "executor"
+  },
+  "char_243_waaifu" : {
+    "appellation" : "Waai Fu",
+    "position" : "MELEE",
+    "rarity" : 4,
+    "profession" : "SPECIAL",
+    "subProfessionId" : "executor"
+  },
+  "char_214_kafka" : {
+    "appellation" : "Kafka",
+    "position" : "MELEE",
+    "rarity" : 4,
+    "profession" : "SPECIAL",
+    "subProfessionId" : "executor"
+  },
+  "char_455_nothin" : {
+    "appellation" : "Mr.Nothing",
+    "position" : "MELEE",
+    "rarity" : 4,
+    "profession" : "SPECIAL",
+    "subProfessionId" : "merchant"
+  },
+  "char_4155_talr" : {
+    "appellation" : "Figurino",
+    "position" : "MELEE",
+    "rarity" : 4,
+    "profession" : "SPECIAL",
+    "subProfessionId" : "merchant"
+  },
+  "char_107_liskam" : {
+    "appellation" : "Liskarm",
+    "position" : "MELEE",
+    "rarity" : 4,
+    "profession" : "TANK",
+    "subProfessionId" : "shotprotector"
+  },
+  "char_4137_udflow" : {
+    "appellation" : "Underflow",
+    "position" : "MELEE",
+    "rarity" : 4,
+    "profession" : "TANK",
+    "subProfessionId" : "shotprotector"
+  },
+  "char_201_moeshd" : {
+    "appellation" : "Croissant",
+    "position" : "MELEE",
+    "rarity" : 4,
+    "profession" : "TANK",
+    "subProfessionId" : "protector"
+  },
+  "char_325_bison" : {
+    "appellation" : "Bison",
+    "position" : "MELEE",
+    "rarity" : 4,
+    "profession" : "TANK",
+    "subProfessionId" : "protector"
+  },
+  "char_163_hpsts" : {
+    "appellation" : "Vulcan",
+    "position" : "MELEE",
+    "rarity" : 4,
+    "profession" : "TANK",
+    "subProfessionId" : "unyield"
+  },
+  "char_4207_branch" : {
+    "appellation" : "Веточки",
+    "position" : "MELEE",
+    "rarity" : 4,
+    "profession" : "TANK",
+    "subProfessionId" : "unyield"
+  },
+  "char_378_asbest" : {
+    "appellation" : "Asbestos",
+    "position" : "MELEE",
+    "rarity" : 4,
+    "profession" : "TANK",
+    "subProfessionId" : "artsprotector"
+  },
+  "char_512_aprot" : {
+    "appellation" : "Shalem",
+    "position" : "MELEE",
+    "rarity" : 4,
+    "profession" : "TANK",
+    "subProfessionId" : "artsprotector"
+  },
+  "char_4025_aprot2" : {
+    "appellation" : "Shalem",
+    "position" : "MELEE",
+    "rarity" : 4,
+    "profession" : "TANK",
+    "subProfessionId" : "artsprotector"
+  },
+  "char_4047_pianst" : {
+    "appellation" : "Czerny",
+    "position" : "MELEE",
+    "rarity" : 4,
+    "profession" : "TANK",
+    "subProfessionId" : "artsprotector"
+  },
+  "char_457_blitz" : {
+    "appellation" : "Blitz",
+    "position" : "MELEE",
+    "rarity" : 4,
+    "profession" : "TANK",
+    "subProfessionId" : "shotprotector"
+  },
+  "char_304_zebra" : {
+    "appellation" : "Heavyrain",
+    "position" : "MELEE",
+    "rarity" : 4,
+    "profession" : "TANK",
+    "subProfessionId" : "protector"
+  },
+  "char_431_ashlok" : {
+    "appellation" : "Ashlock",
+    "position" : "MELEE",
+    "rarity" : 4,
+    "profession" : "TANK",
+    "subProfessionId" : "fortress"
+  },
+  "char_493_firwhl" : {
+    "appellation" : "Firewhistle",
+    "position" : "MELEE",
+    "rarity" : 4,
+    "profession" : "TANK",
+    "subProfessionId" : "fortress"
+  },
+  "char_422_aurora" : {
+    "appellation" : "Aurora",
+    "position" : "MELEE",
+    "rarity" : 4,
+    "profession" : "TANK",
+    "subProfessionId" : "duelist"
+  },
+  "char_464_cement" : {
+    "appellation" : "Cement",
+    "position" : "MELEE",
+    "rarity" : 4,
+    "profession" : "TANK",
+    "subProfessionId" : "duelist"
+  },
+  "char_4148_philae" : {
+    "appellation" : "Philae",
+    "position" : "MELEE",
+    "rarity" : 4,
+    "profession" : "TANK",
+    "subProfessionId" : "primprotector"
+  },
+  "char_145_prove" : {
+    "appellation" : "Provence",
+    "position" : "RANGED",
+    "rarity" : 4,
+    "profession" : "SNIPER",
+    "subProfessionId" : "closerange"
+  },
+  "char_4006_melnte" : {
+    "appellation" : "Melanite",
+    "position" : "RANGED",
+    "rarity" : 4,
+    "profession" : "SNIPER",
+    "subProfessionId" : "closerange"
+  },
+  "char_158_milu" : {
+    "appellation" : "Firewatch",
+    "position" : "RANGED",
+    "rarity" : 4,
+    "profession" : "SNIPER",
+    "subProfessionId" : "longrange"
+  },
+  "char_218_cuttle" : {
+    "appellation" : "Andreana",
+    "position" : "RANGED",
+    "rarity" : 4,
+    "profession" : "SNIPER",
+    "subProfessionId" : "longrange"
+  },
+  "char_4014_lunacu" : {
+    "appellation" : "Lunacub",
+    "position" : "RANGED",
+    "rarity" : 4,
+    "profession" : "SNIPER",
+    "subProfessionId" : "longrange"
+  },
+  "char_363_toddi" : {
+    "appellation" : "Toddifons",
+    "position" : "RANGED",
+    "rarity" : 4,
+    "profession" : "SNIPER",
+    "subProfessionId" : "siegesniper"
+  },
+  "char_4043_erato" : {
+    "appellation" : "Erato",
+    "position" : "RANGED",
+    "rarity" : 4,
+    "profession" : "SNIPER",
+    "subProfessionId" : "siegesniper"
+  },
+  "char_1027_greyy2" : {
+    "appellation" : "Greyy the Lightningbearer",
+    "position" : "RANGED",
+    "rarity" : 4,
+    "profession" : "SNIPER",
+    "subProfessionId" : "bombarder"
+  },
+  "char_4104_coldst" : {
+    "appellation" : "Coldshot",
+    "position" : "RANGED",
+    "rarity" : 4,
+    "profession" : "SNIPER",
+    "subProfessionId" : "hunter"
+  },
+  "char_4211_snhunt" : {
+    "appellation" : "Snow Hunter",
+    "position" : "RANGED",
+    "rarity" : 4,
+    "profession" : "SNIPER",
+    "subProfessionId" : "hunter"
+  },
+  "char_4177_brigid" : {
+    "appellation" : "Brigid",
+    "position" : "RANGED",
+    "rarity" : 4,
+    "profession" : "SNIPER",
+    "subProfessionId" : "loopshooter"
+  },
+  "char_4015_spuria" : {
+    "appellation" : "Spuria",
+    "position" : "RANGED",
+    "rarity" : 4,
+    "profession" : "SPECIAL",
+    "subProfessionId" : "geek"
+  },
+  "char_173_slchan" : {
+    "appellation" : "Cliffheart",
+    "position" : "MELEE",
+    "rarity" : 4,
+    "profession" : "SPECIAL",
+    "subProfessionId" : "hookmaster"
+  },
+  "char_383_snsant" : {
+    "appellation" : "Snowsant",
+    "position" : "MELEE",
+    "rarity" : 4,
+    "profession" : "SPECIAL",
+    "subProfessionId" : "hookmaster"
+  },
+  "char_4105_almond" : {
+    "appellation" : "Almond",
+    "position" : "MELEE",
+    "rarity" : 4,
+    "profession" : "SPECIAL",
+    "subProfessionId" : "hookmaster"
+  },
+  "char_174_slbell" : {
+    "appellation" : "Pramanix",
+    "position" : "RANGED",
+    "rarity" : 4,
+    "profession" : "SUPPORT",
+    "subProfessionId" : "underminer"
+  },
+  "char_254_vodfox" : {
+    "appellation" : "Shamare",
+    "position" : "RANGED",
+    "rarity" : 4,
+    "profession" : "SUPPORT",
+    "subProfessionId" : "underminer"
+  },
+  "char_4079_haini" : {
+    "appellation" : "Lucilla",
+    "position" : "RANGED",
+    "rarity" : 4,
+    "profession" : "SUPPORT",
+    "subProfessionId" : "underminer"
+  },
+  "char_195_glassb" : {
+    "appellation" : "Истина",
+    "position" : "RANGED",
+    "rarity" : 4,
+    "profession" : "SUPPORT",
+    "subProfessionId" : "slower"
+  },
+  "char_326_glacus" : {
+    "appellation" : "Glaucus",
+    "position" : "RANGED",
+    "rarity" : 4,
+    "profession" : "SUPPORT",
+    "subProfessionId" : "slower"
+  },
+  "char_4032_provs" : {
+    "appellation" : "Proviso",
+    "position" : "RANGED",
+    "rarity" : 4,
+    "profession" : "SUPPORT",
+    "subProfessionId" : "slower"
+  },
+  "char_4122_grabds" : {
+    "appellation" : "Grain Buds",
+    "position" : "RANGED",
+    "rarity" : 4,
+    "profession" : "SUPPORT",
+    "subProfessionId" : "slower"
+  },
+  "char_433_windft" : {
+    "appellation" : "Windflit",
+    "position" : "MELEE",
+    "rarity" : 4,
+    "profession" : "SUPPORT",
+    "subProfessionId" : "craftsman"
+  },
+  "char_4162_cathy" : {
+    "appellation" : "Catherine",
+    "position" : "MELEE",
+    "rarity" : 4,
+    "profession" : "SUPPORT",
+    "subProfessionId" : "craftsman"
+  },
+  "char_4178_alanna" : {
+    "appellation" : "Alanna",
+    "position" : "MELEE",
+    "rarity" : 4,
+    "profession" : "SUPPORT",
+    "subProfessionId" : "craftsman"
+  },
+  "char_101_sora" : {
+    "appellation" : "Sora",
+    "position" : "RANGED",
+    "rarity" : 4,
+    "profession" : "SUPPORT",
+    "subProfessionId" : "bard"
+  },
+  "char_4045_heidi" : {
+    "appellation" : "Heidi",
+    "position" : "RANGED",
+    "rarity" : 4,
+    "profession" : "SUPPORT",
+    "subProfessionId" : "bard"
+  },
+  "char_4184_dolris" : {
+    "appellation" : "Misumi Uika",
+    "position" : "RANGED",
+    "rarity" : 4,
+    "profession" : "SUPPORT",
+    "subProfessionId" : "bard"
+  },
+  "char_343_tknogi" : {
+    "appellation" : "Tsukinogi",
+    "position" : "RANGED",
+    "rarity" : 4,
+    "profession" : "SUPPORT",
+    "subProfessionId" : "blessing"
+  },
+  "char_4019_ncdeer" : {
+    "appellation" : "Nine-Colored Deer",
+    "position" : "RANGED",
+    "rarity" : 4,
+    "profession" : "SUPPORT",
+    "subProfessionId" : "blessing"
+  },
+  "char_492_quercu" : {
+    "appellation" : "Quercus",
+    "position" : "RANGED",
+    "rarity" : 4,
+    "profession" : "SUPPORT",
+    "subProfessionId" : "blessing"
+  },
+  "char_4172_xingzh" : {
+    "appellation" : "Xingzhu",
+    "position" : "RANGED",
+    "rarity" : 4,
+    "profession" : "SUPPORT",
+    "subProfessionId" : "blessing"
+  },
+  "char_4102_threye" : {
+    "appellation" : "Valarqvin",
+    "position" : "RANGED",
+    "rarity" : 4,
+    "profession" : "SUPPORT",
+    "subProfessionId" : "ritualist"
+  },
+  "char_487_bobb" : {
+    "appellation" : "Bobbing",
+    "position" : "RANGED",
+    "rarity" : 4,
+    "profession" : "SUPPORT",
+    "subProfessionId" : "ritualist"
+  },
+  "char_215_mantic" : {
+    "appellation" : "Manticore",
+    "position" : "MELEE",
+    "rarity" : 4,
+    "profession" : "SPECIAL",
+    "subProfessionId" : "stalker"
+  },
+  "char_478_kirara" : {
+    "appellation" : "Kirara",
+    "position" : "MELEE",
+    "rarity" : 4,
+    "profession" : "SPECIAL",
+    "subProfessionId" : "stalker"
+  },
+  "char_4186_tmoris" : {
+    "appellation" : "Yahata Umiri",
+    "position" : "MELEE",
+    "rarity" : 4,
+    "profession" : "SPECIAL",
+    "subProfessionId" : "stalker"
+  },
+  "char_241_panda" : {
+    "appellation" : "FEater",
+    "position" : "MELEE",
+    "rarity" : 4,
+    "profession" : "SPECIAL",
+    "subProfessionId" : "pusher"
+  },
+  "char_4036_forcer" : {
+    "appellation" : "Enforcer",
+    "position" : "MELEE",
+    "rarity" : 4,
+    "profession" : "SPECIAL",
+    "subProfessionId" : "pusher"
+  },
+  "char_451_robin" : {
+    "appellation" : "Robin",
+    "position" : "RANGED",
+    "rarity" : 4,
+    "profession" : "SPECIAL",
+    "subProfessionId" : "traper"
+  },
+  "char_458_rfrost" : {
+    "appellation" : "Frost",
+    "position" : "RANGED",
+    "rarity" : 4,
+    "profession" : "SPECIAL",
+    "subProfessionId" : "traper"
+  },
+  "char_4171_wulfen" : {
+    "appellation" : "Wulfenite",
+    "position" : "RANGED",
+    "rarity" : 4,
+    "profession" : "SPECIAL",
+    "subProfessionId" : "traper"
+  },
+  "char_369_bena" : {
+    "appellation" : "Bena",
+    "position" : "MELEE",
+    "rarity" : 4,
+    "profession" : "SPECIAL",
+    "subProfessionId" : "dollkeeper"
+  },
+  "char_4016_kazema" : {
+    "appellation" : "Kazemaru",
+    "position" : "MELEE",
+    "rarity" : 4,
+    "profession" : "SPECIAL",
+    "subProfessionId" : "dollkeeper"
+  },
+  "char_4124_iana" : {
+    "appellation" : "Iana",
+    "position" : "MELEE",
+    "rarity" : 4,
+    "profession" : "SPECIAL",
+    "subProfessionId" : "dollkeeper"
+  },
+  "char_4183_mortis" : {
+    "appellation" : "Wakaba Mutsumi",
+    "position" : "MELEE",
+    "rarity" : 4,
+    "profession" : "SPECIAL",
+    "subProfessionId" : "dollkeeper"
+  },
+  "char_4151_tinman" : {
+    "appellation" : "Tin Man",
+    "position" : "RANGED",
+    "rarity" : 4,
+    "profession" : "SPECIAL",
+    "subProfessionId" : "alchemist"
+  },
+  "char_4191_tippi" : {
+    "appellation" : "Tippi",
+    "position" : "MELEE",
+    "rarity" : 4,
+    "profession" : "SPECIAL",
+    "subProfessionId" : "skywalker"
+  },
+  "char_103_angel" : {
+    "appellation" : "Exusiai",
+    "position" : "RANGED",
+    "rarity" : 5,
+    "profession" : "SNIPER",
+    "subProfessionId" : "fastshot"
+  },
+  "char_332_archet" : {
+    "appellation" : "Archetto",
+    "position" : "RANGED",
+    "rarity" : 5,
+    "profession" : "SNIPER",
+    "subProfessionId" : "fastshot"
+  },
+  "char_456_ash" : {
+    "appellation" : "Ash",
+    "position" : "RANGED",
+    "rarity" : 5,
+    "profession" : "SNIPER",
+    "subProfessionId" : "fastshot"
+  },
+  "char_611_acnipe" : {
+    "appellation" : "Stormeye",
+    "position" : "RANGED",
+    "rarity" : 5,
+    "profession" : "SNIPER",
+    "subProfessionId" : "fastshot"
+  },
+  "char_340_shwaz" : {
+    "appellation" : "Schwarz",
+    "position" : "RANGED",
+    "rarity" : 5,
+    "profession" : "SNIPER",
+    "subProfessionId" : "closerange"
+  },
+  "char_4055_bgsnow" : {
+    "appellation" : "Позёмка",
+    "position" : "RANGED",
+    "rarity" : 5,
+    "profession" : "SNIPER",
+    "subProfessionId" : "closerange"
+  },
+  "char_430_fartth" : {
+    "appellation" : "Fartooth",
+    "position" : "RANGED",
+    "rarity" : 5,
+    "profession" : "SNIPER",
+    "subProfessionId" : "longrange"
+  },
+  "char_4193_lemuen" : {
+    "appellation" : "Lemuen",
+    "position" : "RANGED",
+    "rarity" : 5,
+    "profession" : "SNIPER",
+    "subProfessionId" : "longrange"
+  },
+  "char_113_cqbw" : {
+    "appellation" : "W",
+    "position" : "RANGED",
+    "rarity" : 5,
+    "profession" : "SNIPER",
+    "subProfessionId" : "aoesniper"
+  },
+  "char_300_phenxi" : {
+    "appellation" : "Fiammetta",
+    "position" : "RANGED",
+    "rarity" : 5,
+    "profession" : "SNIPER",
+    "subProfessionId" : "aoesniper"
+  },
+  "char_197_poca" : {
+    "appellation" : "Роса",
+    "position" : "RANGED",
+    "rarity" : 5,
+    "profession" : "SNIPER",
+    "subProfessionId" : "siegesniper"
+  },
+  "char_2012_typhon" : {
+    "appellation" : "Typhon",
+    "position" : "RANGED",
+    "rarity" : 5,
+    "profession" : "SNIPER",
+    "subProfessionId" : "siegesniper"
+  },
+  "char_391_rosmon" : {
+    "appellation" : "Rosmontis",
+    "position" : "RANGED",
+    "rarity" : 5,
+    "profession" : "SNIPER",
+    "subProfessionId" : "bombarder"
+  },
+  "char_1035_wisdel" : {
+    "appellation" : "Wiš'adel",
+    "position" : "RANGED",
+    "rarity" : 5,
+    "profession" : "SNIPER",
+    "subProfessionId" : "bombarder"
+  },
+  "char_1013_chen2" : {
+    "appellation" : "Ch'en the Holungday",
+    "position" : "RANGED",
+    "rarity" : 5,
+    "profession" : "SNIPER",
+    "subProfessionId" : "reaperrange"
+  },
+  "char_4117_ray" : {
+    "appellation" : "Ray",
+    "position" : "RANGED",
+    "rarity" : 5,
+    "profession" : "SNIPER",
+    "subProfessionId" : "hunter"
+  },
+  "char_4138_narant" : {
+    "appellation" : "Narantuya",
+    "position" : "RANGED",
+    "rarity" : 5,
+    "profession" : "SNIPER",
+    "subProfessionId" : "loopshooter"
+  },
+  "char_112_siege" : {
+    "appellation" : "Siege",
+    "position" : "MELEE",
+    "rarity" : 5,
+    "profession" : "PIONEER",
+    "subProfessionId" : "pioneer"
+  },
+  "char_222_bpipe" : {
+    "appellation" : "Bagpipe",
+    "position" : "MELEE",
+    "rarity" : 5,
+    "profession" : "PIONEER",
+    "subProfessionId" : "charger"
+  },
+  "char_362_saga" : {
+    "appellation" : "Saga",
+    "position" : "MELEE",
+    "rarity" : 5,
+    "profession" : "PIONEER",
+    "subProfessionId" : "pioneer"
+  },
+  "char_4026_vulpis" : {
+    "appellation" : "Vulpisfoglia",
+    "position" : "MELEE",
+    "rarity" : 5,
+    "profession" : "PIONEER",
+    "subProfessionId" : "pioneer"
+  },
+  "char_479_sleach" : {
+    "appellation" : "Saileach",
+    "position" : "MELEE",
+    "rarity" : 5,
+    "profession" : "PIONEER",
+    "subProfessionId" : "bearer"
+  },
+  "char_420_flamtl" : {
+    "appellation" : "Flametail",
+    "position" : "MELEE",
+    "rarity" : 5,
+    "profession" : "PIONEER",
+    "subProfessionId" : "pioneer"
+  },
+  "char_608_acpion" : {
+    "appellation" : "Tulip",
+    "position" : "MELEE",
+    "rarity" : 5,
+    "profession" : "PIONEER",
+    "subProfessionId" : "pioneer"
+  },
+  "char_427_vigil" : {
+    "appellation" : "Vigil",
+    "position" : "RANGED",
+    "rarity" : 5,
+    "profession" : "PIONEER",
+    "subProfessionId" : "tactician"
+  },
+  "char_249_mlyss" : {
+    "appellation" : "Muelsyse",
+    "position" : "RANGED",
+    "rarity" : 5,
+    "profession" : "PIONEER",
+    "subProfessionId" : "tactician"
+  },
+  "char_1045_svash2" : {
+    "appellation" : "SilverAsh the Reignfrost",
+    "position" : "MELEE",
+    "rarity" : 5,
+    "profession" : "PIONEER",
+    "subProfessionId" : "counsellor"
+  },
+  "char_4087_ines" : {
+    "appellation" : "Ines",
+    "position" : "MELEE",
+    "rarity" : 5,
+    "profession" : "PIONEER",
+    "subProfessionId" : "agent"
+  },
+  "char_134_ifrit" : {
+    "appellation" : "Ifrit",
+    "position" : "RANGED",
+    "rarity" : 5,
+    "profession" : "CASTER",
+    "subProfessionId" : "blastcaster"
+  },
+  "char_213_mostma" : {
+    "appellation" : "Mostima",
+    "position" : "RANGED",
+    "rarity" : 5,
+    "profession" : "CASTER",
+    "subProfessionId" : "splashcaster"
+  },
+  "char_180_amgoat" : {
+    "appellation" : "Eyjafjalla",
+    "position" : "RANGED",
+    "rarity" : 5,
+    "profession" : "CASTER",
+    "subProfessionId" : "corecaster"
+  },
+  "char_2013_cerber" : {
+    "appellation" : "Ceobe",
+    "position" : "RANGED",
+    "rarity" : 5,
+    "profession" : "CASTER",
+    "subProfessionId" : "corecaster"
+  },
+  "char_4027_heyak" : {
+    "appellation" : "Ho'olheyak",
+    "position" : "RANGED",
+    "rarity" : 5,
+    "profession" : "CASTER",
+    "subProfessionId" : "corecaster"
+  },
+  "char_4133_logos" : {
+    "appellation" : "Logos",
+    "position" : "RANGED",
+    "rarity" : 5,
+    "profession" : "CASTER",
+    "subProfessionId" : "corecaster"
+  },
+  "char_2015_dusk" : {
+    "appellation" : "Dusk",
+    "position" : "RANGED",
+    "rarity" : 5,
+    "profession" : "CASTER",
+    "subProfessionId" : "splashcaster"
+  },
+  "char_4141_marcil" : {
+    "appellation" : "Marcille",
+    "position" : "RANGED",
+    "rarity" : 5,
+    "profession" : "CASTER",
+    "subProfessionId" : "splashcaster"
+  },
+  "char_612_accast" : {
+    "appellation" : "Pith",
+    "position" : "RANGED",
+    "rarity" : 5,
+    "profession" : "CASTER",
+    "subProfessionId" : "splashcaster"
+  },
+  "char_472_pasngr" : {
+    "appellation" : "Passenger",
+    "position" : "RANGED",
+    "rarity" : 5,
+    "profession" : "CASTER",
+    "subProfessionId" : "chain"
+  },
+  "char_426_billro" : {
+    "appellation" : "Carnelian",
+    "position" : "RANGED",
+    "rarity" : 5,
+    "profession" : "CASTER",
+    "subProfessionId" : "phalanx"
+  },
+  "char_4080_lin" : {
+    "appellation" : "Lin",
+    "position" : "RANGED",
+    "rarity" : 5,
+    "profession" : "CASTER",
+    "subProfessionId" : "phalanx"
+  },
+  "char_1046_sbell2" : {
+    "appellation" : "Pramanix the Prerita",
+    "position" : "RANGED",
+    "rarity" : 5,
+    "profession" : "CASTER",
+    "subProfessionId" : "phalanx"
+  },
+  "char_377_gdglow" : {
+    "appellation" : "Goldenglow",
+    "position" : "RANGED",
+    "rarity" : 5,
+    "profession" : "CASTER",
+    "subProfessionId" : "funnel"
+  },
+  "char_1038_whitw2" : {
+    "appellation" : "Lappland the Decadenza",
+    "position" : "RANGED",
+    "rarity" : 5,
+    "profession" : "CASTER",
+    "subProfessionId" : "funnel"
+  },
+  "char_4046_ebnhlz" : {
+    "appellation" : "Ebenholz",
+    "position" : "RANGED",
+    "rarity" : 5,
+    "profession" : "CASTER",
+    "subProfessionId" : "mystic"
+  },
+  "char_4146_nymph" : {
+    "appellation" : "Nymph",
+    "position" : "RANGED",
+    "rarity" : 5,
+    "profession" : "CASTER",
+    "subProfessionId" : "primcaster"
+  },
+  "char_1040_blaze2" : {
+    "appellation" : "Blaze the Igniting Spark",
+    "position" : "RANGED",
+    "rarity" : 5,
+    "profession" : "CASTER",
+    "subProfessionId" : "primcaster"
+  },
+  "char_4204_mantra" : {
+    "appellation" : "Mantra",
+    "position" : "RANGED",
+    "rarity" : 5,
+    "profession" : "CASTER",
+    "subProfessionId" : "primcaster"
+  },
+  "char_450_necras" : {
+    "appellation" : "Necrass",
+    "position" : "RANGED",
+    "rarity" : 5,
+    "profession" : "CASTER",
+    "subProfessionId" : "soulcaster"
+  },
+  "char_206_gnosis" : {
+    "appellation" : "Gnosis",
+    "position" : "RANGED",
+    "rarity" : 5,
+    "profession" : "SUPPORT",
+    "subProfessionId" : "underminer"
+  },
+  "char_291_aglina" : {
+    "appellation" : "Angelina",
+    "position" : "RANGED",
+    "rarity" : 5,
+    "profession" : "SUPPORT",
+    "subProfessionId" : "slower"
+  },
+  "char_358_lisa" : {
+    "appellation" : "Suzuran",
+    "position" : "RANGED",
+    "rarity" : 5,
+    "profession" : "SUPPORT",
+    "subProfessionId" : "slower"
+  },
+  "char_614_acsupo" : {
+    "appellation" : "Raidian",
+    "position" : "RANGED",
+    "rarity" : 5,
+    "profession" : "SUPPORT",
+    "subProfessionId" : "slower"
+  },
+  "char_1047_halo2" : {
+    "appellation" : "Astgenne the Lightchaser",
+    "position" : "RANGED",
+    "rarity" : 5,
+    "profession" : "SUPPORT",
+    "subProfessionId" : "slower"
+  },
+  "char_248_mgllan" : {
+    "appellation" : "Magallan",
+    "position" : "RANGED",
+    "rarity" : 5,
+    "profession" : "SUPPORT",
+    "subProfessionId" : "summoner"
+  },
+  "char_4195_radian" : {
+    "appellation" : "Raidian",
+    "position" : "RANGED",
+    "rarity" : 5,
+    "profession" : "SUPPORT",
+    "subProfessionId" : "summoner"
+  },
+  "char_1012_skadi2" : {
+    "appellation" : "Skadi the Corrupting Heart",
+    "position" : "RANGED",
+    "rarity" : 5,
+    "profession" : "SUPPORT",
+    "subProfessionId" : "bard"
+  },
+  "char_4134_cetsyr" : {
+    "appellation" : "Civilight Eterna",
+    "position" : "RANGED",
+    "rarity" : 5,
+    "profession" : "SUPPORT",
+    "subProfessionId" : "bard"
+  },
+  "char_1031_slent2" : {
+    "appellation" : "Silence the Paradigmatic",
+    "position" : "RANGED",
+    "rarity" : 5,
+    "profession" : "SUPPORT",
+    "subProfessionId" : "blessing"
+  },
+  "char_4202_haruka" : {
+    "appellation" : "Haruka",
+    "position" : "RANGED",
+    "rarity" : 5,
+    "profession" : "SUPPORT",
+    "subProfessionId" : "blessing"
+  },
+  "char_2023_ling" : {
+    "appellation" : "Ling",
+    "position" : "RANGED",
+    "rarity" : 5,
+    "profession" : "SUPPORT",
+    "subProfessionId" : "summoner"
+  },
+  "char_4072_ironmn" : {
+    "appellation" : "Stainless",
+    "position" : "MELEE",
+    "rarity" : 5,
+    "profession" : "SUPPORT",
+    "subProfessionId" : "craftsman"
+  },
+  "char_4212_nasti" : {
+    "appellation" : "Nasti",
+    "position" : "MELEE",
+    "rarity" : 5,
+    "profession" : "SUPPORT",
+    "subProfessionId" : "craftsman"
+  },
+  "char_245_cello" : {
+    "appellation" : "Virtuosa",
+    "position" : "RANGED",
+    "rarity" : 5,
+    "profession" : "SUPPORT",
+    "subProfessionId" : "ritualist"
+  },
+  "char_1042_phatm2" : {
+    "appellation" : "Tragodia",
+    "position" : "RANGED",
+    "rarity" : 5,
+    "profession" : "SUPPORT",
+    "subProfessionId" : "ritualist"
+  },
+  "char_250_phatom" : {
+    "appellation" : "Phantom",
+    "position" : "MELEE",
+    "rarity" : 5,
+    "profession" : "SPECIAL",
+    "subProfessionId" : "executor"
+  },
+  "char_1028_texas2" : {
+    "appellation" : "Texas the Omertosa",
+    "position" : "MELEE",
+    "rarity" : 5,
+    "profession" : "SPECIAL",
+    "subProfessionId" : "executor"
+  },
+  "char_1029_yato2" : {
+    "appellation" : "Kirin R Yato",
+    "position" : "MELEE",
+    "rarity" : 5,
+    "profession" : "SPECIAL",
+    "subProfessionId" : "executor"
+  },
+  "char_1502_crosly" : {
+    "appellation" : "Crownslayer",
+    "position" : "MELEE",
+    "rarity" : 5,
+    "profession" : "SPECIAL",
+    "subProfessionId" : "executor"
+  },
+  "char_615_acspec" : {
+    "appellation" : "Misery",
+    "position" : "MELEE",
+    "rarity" : 5,
+    "profession" : "SPECIAL",
+    "subProfessionId" : "executor"
+  },
+  "char_322_lmlee" : {
+    "appellation" : "Lee",
+    "position" : "MELEE",
+    "rarity" : 5,
+    "profession" : "SPECIAL",
+    "subProfessionId" : "merchant"
+  },
+  "char_1033_swire2" : {
+    "appellation" : "Swire the Elegant Wit",
+    "position" : "MELEE",
+    "rarity" : 5,
+    "profession" : "SPECIAL",
+    "subProfessionId" : "merchant"
+  },
+  "char_400_weedy" : {
+    "appellation" : "Weedy",
+    "position" : "MELEE",
+    "rarity" : 5,
+    "profession" : "SPECIAL",
+    "subProfessionId" : "pusher"
+  },
+  "char_225_haak" : {
+    "appellation" : "Aak",
+    "position" : "RANGED",
+    "rarity" : 5,
+    "profession" : "SPECIAL",
+    "subProfessionId" : "geek"
+  },
+  "char_1041_angel2" : {
+    "appellation" : "Exusiai the New Covenant",
+    "position" : "RANGED",
+    "rarity" : 5,
+    "profession" : "SPECIAL",
+    "subProfessionId" : "geek"
+  },
+  "char_474_glady" : {
+    "appellation" : "Gladiia",
+    "position" : "MELEE",
+    "rarity" : 5,
+    "profession" : "SPECIAL",
+    "subProfessionId" : "hookmaster"
+  },
+  "char_437_mizuki" : {
+    "appellation" : "Mizuki",
+    "position" : "MELEE",
+    "rarity" : 5,
+    "profession" : "SPECIAL",
+    "subProfessionId" : "stalker"
+  },
+  "char_4132_ascln" : {
+    "appellation" : "Ascalon",
+    "position" : "MELEE",
+    "rarity" : 5,
+    "profession" : "SPECIAL",
+    "subProfessionId" : "stalker"
+  },
+  "char_1023_ghost2" : {
+    "appellation" : "Specter the Unchained",
+    "position" : "MELEE",
+    "rarity" : 5,
+    "profession" : "SPECIAL",
+    "subProfessionId" : "dollkeeper"
+  },
+  "char_4048_doroth" : {
+    "appellation" : "Dorothy",
+    "position" : "RANGED",
+    "rarity" : 5,
+    "profession" : "SPECIAL",
+    "subProfessionId" : "traper"
+  },
+  "char_4123_ela" : {
+    "appellation" : "Ela",
+    "position" : "RANGED",
+    "rarity" : 5,
+    "profession" : "SPECIAL",
+    "subProfessionId" : "traper"
+  },
+  "char_1039_thorn2" : {
+    "appellation" : "Thorns the Lodestar",
+    "position" : "RANGED",
+    "rarity" : 5,
+    "profession" : "SPECIAL",
+    "subProfessionId" : "alchemist"
+  },
+  "char_147_shining" : {
+    "appellation" : "Shining",
+    "position" : "RANGED",
+    "rarity" : 5,
+    "profession" : "MEDIC",
+    "subProfessionId" : "physician"
+  },
+  "char_613_acmedc" : {
+    "appellation" : "Touch",
+    "position" : "RANGED",
+    "rarity" : 5,
+    "profession" : "MEDIC",
+    "subProfessionId" : "physician"
+  },
+  "char_179_cgbird" : {
+    "appellation" : "Nightingale",
+    "position" : "RANGED",
+    "rarity" : 5,
+    "profession" : "MEDIC",
+    "subProfessionId" : "ringhealer"
+  },
+  "char_003_kalts" : {
+    "appellation" : "Kal'tsit",
+    "position" : "RANGED",
+    "rarity" : 5,
+    "profession" : "MEDIC",
+    "subProfessionId" : "physician"
+  },
+  "char_4042_lumen" : {
+    "appellation" : "Lumen",
+    "position" : "RANGED",
+    "rarity" : 5,
+    "profession" : "MEDIC",
+    "subProfessionId" : "healer"
+  },
+  "char_1016_agoat2" : {
+    "appellation" : "Eyjafjalla the Hvít Aska",
+    "position" : "RANGED",
+    "rarity" : 5,
+    "profession" : "MEDIC",
+    "subProfessionId" : "wandermedic"
+  },
+  "char_1020_reed2" : {
+    "appellation" : "Reed The Flame Shadow",
+    "position" : "RANGED",
+    "rarity" : 5,
+    "profession" : "MEDIC",
+    "subProfessionId" : "incantationmedic"
+  },
+  "char_4179_monstr" : {
+    "appellation" : "Mon3tr",
+    "position" : "RANGED",
+    "rarity" : 5,
+    "profession" : "MEDIC",
+    "subProfessionId" : "chainhealer"
+  },
+  "char_136_hsguma" : {
+    "appellation" : "Hoshiguma",
+    "position" : "MELEE",
+    "rarity" : 5,
+    "profession" : "TANK",
+    "subProfessionId" : "protector"
+  },
+  "char_610_acfend" : {
+    "appellation" : "Mechanist",
+    "position" : "MELEE",
+    "rarity" : 5,
+    "profession" : "TANK",
+    "subProfessionId" : "protector"
+  },
+  "char_202_demkni" : {
+    "appellation" : "Saria",
+    "position" : "MELEE",
+    "rarity" : 5,
+    "profession" : "TANK",
+    "subProfessionId" : "guardian"
+  },
+  "char_423_blemsh" : {
+    "appellation" : "Blemishine",
+    "position" : "MELEE",
+    "rarity" : 5,
+    "profession" : "TANK",
+    "subProfessionId" : "guardian"
+  },
+  "char_2025_shu" : {
+    "appellation" : "Shu",
+    "position" : "MELEE",
+    "rarity" : 5,
+    "profession" : "TANK",
+    "subProfessionId" : "guardian"
+  },
+  "char_2014_nian" : {
+    "appellation" : "Nian",
+    "position" : "MELEE",
+    "rarity" : 5,
+    "profession" : "TANK",
+    "subProfessionId" : "protector"
+  },
+  "char_311_mudrok" : {
+    "appellation" : "Mudrock",
+    "position" : "MELEE",
+    "rarity" : 5,
+    "profession" : "TANK",
+    "subProfessionId" : "unyield"
+  },
+  "char_4065_judge" : {
+    "appellation" : "Penance",
+    "position" : "MELEE",
+    "rarity" : 5,
+    "profession" : "TANK",
+    "subProfessionId" : "unyield"
+  },
+  "char_416_zumama" : {
+    "appellation" : "Eunectes",
+    "position" : "MELEE",
+    "rarity" : 5,
+    "profession" : "TANK",
+    "subProfessionId" : "duelist"
+  },
+  "char_4039_horn" : {
+    "appellation" : "Horn",
+    "position" : "MELEE",
+    "rarity" : 5,
+    "profession" : "TANK",
+    "subProfessionId" : "fortress"
+  },
+  "char_1034_jesca2" : {
+    "appellation" : "Jessica the Liberated",
+    "position" : "MELEE",
+    "rarity" : 5,
+    "profession" : "TANK",
+    "subProfessionId" : "shotprotector"
+  },
+  "char_4194_rmixer" : {
+    "appellation" : "Sankta Miksaparato",
+    "position" : "MELEE",
+    "rarity" : 5,
+    "profession" : "TANK",
+    "subProfessionId" : "shotprotector"
+  },
+  "char_2026_yu" : {
+    "appellation" : "Yu",
+    "position" : "MELEE",
+    "rarity" : 5,
+    "profession" : "TANK",
+    "subProfessionId" : "primprotector"
+  },
+  "char_1044_hsgma2" : {
+    "appellation" : "Hoshiguma the Breacher",
+    "position" : "MELEE",
+    "rarity" : 5,
+    "profession" : "TANK",
+    "subProfessionId" : "artsprotector"
+  },
+  "char_264_f12yin" : {
+    "appellation" : "Mountain",
+    "position" : "MELEE",
+    "rarity" : 5,
+    "profession" : "WARRIOR",
+    "subProfessionId" : "fighter"
+  },
+  "char_2024_chyue" : {
+    "appellation" : "Chongyue",
+    "position" : "MELEE",
+    "rarity" : 5,
+    "profession" : "WARRIOR",
+    "subProfessionId" : "fighter"
+  },
+  "char_172_svrash" : {
+    "appellation" : "SilverAsh",
+    "position" : "MELEE",
+    "rarity" : 5,
+    "profession" : "WARRIOR",
+    "subProfessionId" : "lord"
+  },
+  "char_293_thorns" : {
+    "appellation" : "Thorns",
+    "position" : "MELEE",
+    "rarity" : 5,
+    "profession" : "WARRIOR",
+    "subProfessionId" : "lord"
+  },
+  "char_4082_qiubai" : {
+    "appellation" : "Qiubai",
+    "position" : "MELEE",
+    "rarity" : 5,
+    "profession" : "WARRIOR",
+    "subProfessionId" : "lord"
+  },
+  "char_4182_oblvns" : {
+    "appellation" : "Togawa Sakiko",
+    "position" : "MELEE",
+    "rarity" : 5,
+    "profession" : "WARRIOR",
+    "subProfessionId" : "lord"
+  },
+  "char_617_sharp2" : {
+    "appellation" : "Lord/Sharp",
+    "position" : "MELEE",
+    "rarity" : 5,
+    "profession" : "WARRIOR",
+    "subProfessionId" : "lord"
+  },
+  "char_4088_hodrer" : {
+    "appellation" : "Hoederer",
+    "position" : "MELEE",
+    "rarity" : 5,
+    "profession" : "WARRIOR",
+    "subProfessionId" : "crusher"
+  },
+  "char_4145_ulpia" : {
+    "appellation" : "Ulpianus",
+    "position" : "MELEE",
+    "rarity" : 5,
+    "profession" : "WARRIOR",
+    "subProfessionId" : "crusher"
+  },
+  "char_4058_pepe" : {
+    "appellation" : "Pepe",
+    "position" : "MELEE",
+    "rarity" : 5,
+    "profession" : "WARRIOR",
+    "subProfessionId" : "hammer"
+  },
+  "char_010_chen" : {
+    "appellation" : "Ch'en",
+    "position" : "MELEE",
+    "rarity" : 5,
+    "profession" : "WARRIOR",
+    "subProfessionId" : "sword"
+  },
+  "char_4009_irene" : {
+    "appellation" : "Irene",
+    "position" : "MELEE",
+    "rarity" : 5,
+    "profession" : "WARRIOR",
+    "subProfessionId" : "sword"
+  },
+  "char_4116_blkkgt" : {
+    "appellation" : "Degenbrecher",
+    "position" : "MELEE",
+    "rarity" : 5,
+    "profession" : "WARRIOR",
+    "subProfessionId" : "sword"
+  },
+  "char_017_huang" : {
+    "appellation" : "Blaze",
+    "position" : "MELEE",
+    "rarity" : 5,
+    "profession" : "WARRIOR",
+    "subProfessionId" : "centurion"
+  },
+  "char_1026_gvial2" : {
+    "appellation" : "Gavial the Invincible",
+    "position" : "MELEE",
+    "rarity" : 5,
+    "profession" : "WARRIOR",
+    "subProfessionId" : "centurion"
+  },
+  "char_350_surtr" : {
+    "appellation" : "Surtr",
+    "position" : "MELEE",
+    "rarity" : 5,
+    "profession" : "WARRIOR",
+    "subProfessionId" : "artsfghter"
+  },
+  "char_4098_vvana" : {
+    "appellation" : "Viviana",
+    "position" : "MELEE",
+    "rarity" : 5,
+    "profession" : "WARRIOR",
+    "subProfessionId" : "artsfghter"
+  },
+  "char_1019_siege2" : {
+    "appellation" : "Vina Victoria",
+    "position" : "MELEE",
+    "rarity" : 5,
+    "profession" : "WARRIOR",
+    "subProfessionId" : "artsfghter"
+  },
+  "char_188_helage" : {
+    "appellation" : "Hellagur",
+    "position" : "MELEE",
+    "rarity" : 5,
+    "profession" : "WARRIOR",
+    "subProfessionId" : "musha"
+  },
+  "char_4121_zuole" : {
+    "appellation" : "Zuo Le",
+    "position" : "MELEE",
+    "rarity" : 5,
+    "profession" : "WARRIOR",
+    "subProfessionId" : "musha"
+  },
+  "char_485_pallas" : {
+    "appellation" : "Pallas",
+    "position" : "MELEE",
+    "rarity" : 5,
+    "profession" : "WARRIOR",
+    "subProfessionId" : "instructor"
+  },
+  "char_1014_nearl2" : {
+    "appellation" : "Nearl the Radiant Knight",
+    "position" : "MELEE",
+    "rarity" : 5,
+    "profession" : "WARRIOR",
+    "subProfessionId" : "fearless"
+  },
+  "char_4011_lessng" : {
+    "appellation" : "Lessing",
+    "position" : "MELEE",
+    "rarity" : 5,
+    "profession" : "WARRIOR",
+    "subProfessionId" : "fearless"
+  },
+  "char_609_acguad" : {
+    "appellation" : "Sharp",
+    "position" : "MELEE",
+    "rarity" : 5,
+    "profession" : "WARRIOR",
+    "subProfessionId" : "fearless"
+  },
+  "char_1032_excu2" : {
+    "appellation" : "Executor the Ex Foedere",
+    "position" : "MELEE",
+    "rarity" : 5,
+    "profession" : "WARRIOR",
+    "subProfessionId" : "reaper"
+  },
+  "char_4010_etlchi" : {
+    "appellation" : "Entelechia",
+    "position" : "MELEE",
+    "rarity" : 5,
+    "profession" : "WARRIOR",
+    "subProfessionId" : "reaper"
+  },
+  "char_4064_mlynar" : {
+    "appellation" : "Młynar",
+    "position" : "MELEE",
+    "rarity" : 5,
+    "profession" : "WARRIOR",
+    "subProfessionId" : "librator"
+  },
+  "char_1043_leizi2" : {
+    "appellation" : "Leizi the Thunderbringer",
+    "position" : "MELEE",
+    "rarity" : 5,
+    "profession" : "WARRIOR",
+    "subProfessionId" : "librator"
+  },
+  "char_4214_cairn" : {
+    "appellation" : "Cairn",
+    "position" : "MELEE",
+    "rarity" : 4,
+    "profession" : "TANK",
+    "subProfessionId" : "primprotector"
+  },
+  "char_230_savage" : {
+    "appellation" : "Savage",
+    "position" : "MELEE",
+    "rarity" : 4,
+    "profession" : "WARRIOR",
+    "subProfessionId" : "centurion"
+  },
+  "char_282_catap" : {
+    "appellation" : "Catapult",
+    "position" : "RANGED",
+    "rarity" : 2,
+    "profession" : "SNIPER",
+    "subProfessionId" : "aoesniper"
+  },
+  "char_283_midn" : {
+    "appellation" : "Midnight",
+    "position" : "MELEE",
+    "rarity" : 2,
+    "profession" : "WARRIOR",
+    "subProfessionId" : "lord"
+  },
+  "char_137_brownb" : {
+    "appellation" : "Beehunter",
+    "position" : "MELEE",
+    "rarity" : 3,
+    "profession" : "WARRIOR",
+    "subProfessionId" : "fighter"
+  },
+  "char_347_jaksel" : {
+    "appellation" : "Jackie",
+    "position" : "MELEE",
+    "rarity" : 3,
+    "profession" : "WARRIOR",
+    "subProfessionId" : "fighter"
+  },
+  "char_164_nightm" : {
+    "appellation" : "Nightmare",
+    "position" : "RANGED",
+    "rarity" : 4,
+    "profession" : "CASTER",
+    "subProfessionId" : "corecaster"
+  },
+  "char_220_grani" : {
+    "appellation" : "Grani",
+    "position" : "MELEE",
+    "rarity" : 4,
+    "profession" : "PIONEER",
+    "subProfessionId" : "charger"
+  },
+  "char_263_skadi" : {
+    "appellation" : "Skadi",
+    "position" : "MELEE",
+    "rarity" : 5,
+    "profession" : "WARRIOR",
+    "subProfessionId" : "fearless"
+  }
+}
